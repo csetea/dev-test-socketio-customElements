@@ -3,7 +3,7 @@ require.config({
 	paths : {
 
 		customElement: 'magpie/view/customElement',
-		polyfillWebComponentsBaseDir: '/dist/polymer/webcomponentsjs-0.5.1-1',
+		polyfillWebComponentsBaseDir: 'lib/polymer/webcomponentsjs-0.5.1-1',
 
 		// libs
 		lib : 'lib',
