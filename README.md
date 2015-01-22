@@ -1,8 +1,1 @@
-MagpieJS
-========
-
-Modular JavaScript Collection
-
-TODO
- Write README content
-x
+tech test socket.io + customElements
