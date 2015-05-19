@@ -29,7 +29,7 @@ require.config({
 	
 	callback: require(['magpie/view/customElement!app/t-socktio-demo-chat']),
 
-	waitSeconds : 15
+	waitSeconds : 30
 	
 	
 });
